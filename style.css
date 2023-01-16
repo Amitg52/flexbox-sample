@@ -1,0 +1,20 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+    background-color: #66CDAA;
+}
+div.container{
+    background-color: blue;
+    display: flex;
+}
+.container > div{
+    margin: 10px;
+    padding: 20px;
+    background-color: white;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px dodgerblue;
+    
+}
